@@ -12,6 +12,7 @@
     <modules>
         <module>custome-util</module>
         <module>doubble-test</module>
+        <module>spring-test</module>
     </modules>
 
     <properties>
